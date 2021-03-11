@@ -7,6 +7,8 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     //some text here
+    
+    //some text written from web
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
