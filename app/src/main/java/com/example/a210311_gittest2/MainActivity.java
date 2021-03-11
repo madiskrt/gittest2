@@ -10,6 +10,8 @@ public class MainActivity extends AppCompatActivity {
     
     //some text written from web
 
+    int Feature;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
